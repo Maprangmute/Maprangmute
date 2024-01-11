@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wattanachai Santipaiboon
-- 👀 I’m interested in website developerand marketting
-- 🌱 I’m currently learning in C# (ASP.NET CORE MVC 5)
+- 👀 Working on FULL STC position
+- 🌱 
   
   
    สวัสดีพี่ท่าน เราชื่อวิว ยินดีที่ได้รู้จัก 
